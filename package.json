@@ -1,0 +1,11 @@
+{
+  "name": "airbnbscraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/reggieanim/airbnbscraper.git",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^4.0.1"
+  }
+}
